@@ -1,4 +1,4 @@
-import Inputbox from "./components/Inputbox";
+import Inputbox from "./Inputbox";
 
 
 
